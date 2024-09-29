@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
-   sodipodi:docname="Mano_zeus"
+   sodipodi:docname="Mano.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,8 +27,8 @@
      guidecolor="#5f636c"
      guideopacity="0.6"
      inkscape:zoom="1.0280428"
-     inkscape:cx="327.80737"
-     inkscape:cy="363.79809"
+     inkscape:cx="328.29372"
+     inkscape:cy="364.77081"
      inkscape:window-width="1850"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -245,7 +245,7 @@
        id="text18"><tspan
          sodipodi:role="line"
          id="tspan18"
-         style="stroke-width:2.38125"></tspan></text>
+         style="stroke-width:2.38125" /></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -258,6 +258,6 @@
        style="white-space:pre;shape-inside:url(#rect21);display:inline;fill:#800080;stroke:#800080;stroke-width:1.51181;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"><tspan
          x="2.5683594"
          y="570.7832"
-         id="tspan1">PROYECTO ZEUS (MANO)</tspan></text>
+         id="tspan2">PROYECTO ZEUS (MANO)</tspan></text>
   </g>
 </svg>
