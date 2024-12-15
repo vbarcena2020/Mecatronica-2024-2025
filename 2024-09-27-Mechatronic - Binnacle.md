@@ -69,7 +69,7 @@ $ git checkout -b [name of the new branch]
 These are the basics commands I used.
 
 # **Learning Inksacape 2D Design**
-Fristly, I download the Inkscape program.
+Fristly, I download the Inkscape program. 
 
 The firsts steps whit this program was to learn how to use the program creating this simples designs.
 
@@ -86,6 +86,7 @@ The firsts steps whit this program was to learn how to use the program creating 
   <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/L3/P9.svg?raw=true" width="32.75%">
   <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/L3/P10.svg?raw=true" width="32.75%">
 </p>
+
 
 Then after learning how to use the program and design some things in 2D I try to create a simple design of the Proyect we are going to create "Proyecto Mano de Zeus". 
 
@@ -131,7 +132,7 @@ Here are images of the model I developed, which is more similar to the actual on
 
 This is a video of the final design.
 <p align="center">
-<img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/video3d.gif">
+<img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/video3d.gif?raw=true">
 </p>
 
 The plan drawn is the following
@@ -140,7 +141,23 @@ The plan drawn is the following
   <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/mano.svg?raw=true" width="60%">
 </p>
 
-And the file with all the 3d design you can find it in [hand.FCStd](../assets/images/hand.FCStd).
+And the file with all the 3d design you can find it in [hand.FCStd](https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/hand.FCStd).
+
+Also I have design an arm support in FreeCAD to support all the arm and hand. The 3D design is the following.
+
+<p align="center">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/support_1.png?raw=true" width="249.3" height="150">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/support_2.png?raw=true" width="350" height="150">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/support_3.png?raw=true" width="286" height="150">
+</p>
+
+The plan drawn is the following
+<p align="center">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/soporte.png?raw=true" width="60%">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/soporte.svg?raw=true" width="60%">
+</p>
+
+And the file with all the 3d design you can find it in [support.FCStd](https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/support.FCStd).
 
 
 # **Making Electronic Design**
