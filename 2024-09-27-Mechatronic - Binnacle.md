@@ -135,7 +135,39 @@ This is a video of the final design.
 <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/video3d.gif?raw=true">
 </p>
 
-The plan drawn is the following
+The plans drawn are the following
+
+- Finger:
+<p align="center"> 
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/finger.png?raw=true" width="45%"> 
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/finger.svg?raw=true" width="45%"> 
+</p>
+
+- Thumb:
+<p align="center">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/thumb.png?raw=true" width="45%"> 
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/thumb.svg?raw=true" width="45%"> 
+</p>
+
+- Palm:
+<p align="center">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/palma1.png?raw=true" width="45%"> 
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/palma1.svg?raw=true" width="45%"> 
+</p>
+
+- Ring palm:
+<p align="center">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/palma2.png?raw=true" width="45%"> 
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/palma2.svg?raw=true" width="45%"> 
+</p>
+
+- Pinky palm:
+<p align="center">
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/palma3.png?raw=true" width="45%"> 
+  <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/palma3.svg?raw=true" width="45%"> 
+</p>
+
+- All parts:
 <p align="center">
   <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/mano_plano.png?raw=true" width="60%">
   <img src="https://github.com/vbarcena2020/My_personal_page/blob/master/assets/images/mano.svg?raw=true" width="60%">
